@@ -1,4 +1,4 @@
-## Coucou 👋
+## FR <img src="https://img.icons8.com/color/1048/france-circular.png" width="20"/> - Coucou 👋
 
 📱 Je suis un gamin de 13 ans très intéresser par tout ce qui touche au développement WEB et oui vous l’aurez compris je suis français je vis à  **Freneuse, France** <img src="https://img.icons8.com/color/1048/france-circular.png" width="15"/>.  (et malheureusement je ne suis pas canadien ❤️ à tous les canadien).
 
