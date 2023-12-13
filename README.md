@@ -1,8 +1,10 @@
-🔴🟡🟢 github.com/DyDyExe/DyDyExe/main/README.md
+🔴🟡🟢 <img width="17" src="https://img.icons8.com/sf-black-filled/64/FFFFFF/back.png" alt="back"/>   <img src="https://img.icons8.com/sf-black-filled/64/FFFFFF/forward.png" width="17"/>    <img src="https://img.icons8.com/sf-black-filled/64/FFFFFF/lock.png" width="17"/> github.com/DyDyExe/DyDyExe/main/README.md <img src="https://img.icons8.com/sf-black-filled/64/FFFFFF/recurring-appointment.png" width="17"/>
+
+
 
 ## FR <img src="https://img.icons8.com/color/1048/france-circular.png" width="20"/> - Coucou 👋
 
-📱 Je suis un gamin de 13 ans très intéresser par tout ce qui touche au développement WEB et oui vous l’aurez compris je suis français je vis dans **Yvelines, France** <img src="https://img.icons8.com/color/1048/france-circular.png" width="15"/>.
+📱 Je suis un gamin de 15 ans très intéresser par tout ce qui touche au développement WEB et oui vous l’aurez compris je suis français je vis en **France** <img src="https://img.icons8.com/color/1048/france-circular.png" width="15"/>.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DyDyExe&layout=compact&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=161b22&hide_border=true)
 
